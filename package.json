@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "fetch-api",
+  "version": "1.0.0",
+  "description": "fetch api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ali tarlaci",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
