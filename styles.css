@@ -1,0 +1,15 @@
+s {
+  text-decoration: line-through;
+  color: red;
+}
+
+.strike{
+  color:red
+}
+
+mark{
+  background-color: lightblue;
+  color: black;
+  font-weight: bold;
+  border-radius:4px;
+}
